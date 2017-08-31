@@ -1,0 +1,2 @@
+(dante :repo "ambiata/mafia-mode"
+       :fetcher github)
